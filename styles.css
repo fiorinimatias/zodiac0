@@ -107,12 +107,12 @@ p {
 
 @font-face {
     font-family: "redmoon";
-    src: url(redmoon.otf);
+    src: url(./redmoon.otf);
 }
 
 @font-face {
     font-family: "bebas";
-    src: url(Bebas.ttf);
+    src: url(/Bebas.ttf);
 }
 
 .todo {
