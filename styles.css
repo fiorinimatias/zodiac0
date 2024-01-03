@@ -112,7 +112,7 @@ p {
 
 @font-face {
     font-family: "bebas";
-    src: url(/Bebas.ttf);
+    src: url(./Bebas.ttf);
 }
 
 .todo {
